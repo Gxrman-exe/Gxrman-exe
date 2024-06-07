@@ -34,8 +34,7 @@
 
 - Passionate about Front-End development.
 - Currently learning Front-End development on my own.
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I am currently open to an internship or new job opportunity in the development world.
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
