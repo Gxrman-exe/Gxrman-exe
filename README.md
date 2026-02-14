@@ -6,11 +6,6 @@
   <h3>Frontend Developer | Systems Engineering Student | Colombia 🇨🇴</h3>
 </div>
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake animation"/>
-</div>
-
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=Frontend+Developer;Systems+Engineering+Student;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
@@ -44,9 +39,7 @@
 ### 🧰 Tools & Workflow
 - Git & GitHub
 - VS Code
-- Linux
 - Postman
-- Figma
 
 ---
 
@@ -77,4 +70,3 @@
 
 ---
 
-⭐️ From [TU_USERNAME](https://github.com/TU_USERNAME)
